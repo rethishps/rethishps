@@ -1,0 +1,10 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Central America and the Caribbean,Antigua and Barbuda ,Baby Food,Online,M,12/20/2013,957081544,1/11/2014,552,255.28,159.42,140914.56,,52914.72
+Central America and the Caribbean,Panama,Snacks,Offline,C,7/5/2010,301644504,7/26/2010,2167,152.58,97.44,330640.86,211152.48,119488.38
+Europe,Czech Republic,Beverages,Offline,C,9/12/2011,478051030,9/29/2011,4778,47.45,31.79,226716.10,151892.62,74823.48
+Asia,North Korea,Cereal,Offline,L,5/13/2010,892599952,6/15/2010,9016,205.70,117.11,1854591.20,1055863.76,798727.44
+Asia,Sri Lanka,Snacks,Offline,C,7/20/2015,571902596,7/27/2015,7542,152.58,97.44,1150758.36,734892.48,415865.88
+Middle East and North Africa,Morocco,Personal Care,Offline,L,11/8/2010,412882792,11/22/2010,48,81.73,56.67,3923.04,2720.16,1202.88
+Australia and Oceania,Federated States of Micronesia,Clothes,Offline,H,3/28/2011,932776868,5/10/2011,8258,109.28,35.84,902434.24,295966.72,606467.52
+Europe,Bosnia and Herzegovina,Clothes,Online,M,10/14/2013,919133651,11/4/2013,927,109.28,35.84,101302.56,33223.68,68078.88
+Middle East and North Africa,Afghanistan,Clothes,Offline,M,8/27/2016,579814469,10/5/2016,8841,109.28,35.84,966144.48,316861.44,649283.04
