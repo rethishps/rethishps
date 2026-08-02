@@ -42,6 +42,7 @@ This portfolio reflects the technical skills and problem-solving approaches I ha
 - Jupyter Notebook
 - Git & GitHub
 - Visual Studio Code
+- Google Colab
 
 ---
 
