@@ -114,6 +114,9 @@ Retrieves structured data from REST APIs, parses JSON responses, and prepares th
 ## Database Integration with Python
 Demonstrates connecting to relational databases, executing SQL queries, and integrating database results into Python workflows.
 
+## Advanced AI
+Demonstrates connecting to the open AI API and interact through programatically extract the data from the pdf and return the information in a JSON format. 
+
 **Skills:** SQL, SQLite, Database Programming
 
 ---
@@ -133,6 +136,7 @@ Portfolio/
 ├── Data Cleaning Pipeline/
 ├── Data Collection Using APIs/
 ├── Database Integration with Python/
+├── Advanced AI/
 │
 └── README.md
 ```
