@@ -119,6 +119,11 @@ Demonstrates connecting to the open AI API and interact through programatically 
 
 **Skills:** SQL, SQLite, Database Programming
 
+## Advanced AI -> Fine Tuned model
+Demonstrates how to use a fine-tuned model and use that to do some RAG.  
+
+**Skills:** Python, Streamlit
+
 ---
 
 ## Repository Structure
